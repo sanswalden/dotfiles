@@ -1,5 +1,7 @@
 # Dotfiles
 
+Fork found via https://alexpearce.me/2016/02/managing-dotfiles-with-stow/
+
 This is my collection of [configuration files](http://dotfiles.github.io/).
 
 It uses [home-manager][home-manager]—a [Nix][nix]-based tool—to install
